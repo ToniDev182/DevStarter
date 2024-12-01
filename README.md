@@ -1,6 +1,6 @@
-# 🌐 Proyecto: **DevStarter - Mapa Interactivo**
+# 🌐 Proyecto: **DevStarter**
 
-Este proyecto tiene como objetivo crear una **plataforma educativa interactiva** que ofrezca información sobre cursos, ubicaciones y servicios relacionados con el aprendizaje de desarrollo web. Utilizamos **Leaflet** para crear un mapa interactivo con información sobre la academia **DevStarter** en Jaén, España.
+Este proyecto tiene como objetivo crear una **plataforma educativa interactiva** que ofrezca información sobre cursos, su ubicacion y servicios relacionados con el aprendizaje de desarrollo web. Utilizamos **Leaflet** para crear un mapa interactivo con información sobre la academia **DevStarter** en Jaén, España.
 
 ## 🚀 Funcionalidades Principales
 
